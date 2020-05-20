@@ -1,0 +1,9 @@
+numpy==1.16.2
+pandas==0.24.2
+requests==2.13.0
+elasticsearch==7.7.0
+regex==2020.5.14
+datetime==4.3
+certifi==2020.4.5
+Gensim==3.8.3
+nltk==3.1
