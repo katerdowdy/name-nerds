@@ -6,4 +6,4 @@ regex==2020.5.14
 datetime==4.3
 certifi==2020.4.5
 Gensim==3.8.3
-nltk==3.1
+nltk==3.4.5
