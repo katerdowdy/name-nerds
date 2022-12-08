@@ -4,6 +4,6 @@ requests==2.13.0
 elasticsearch==7.7.0
 regex==2020.5.14
 datetime==4.3
-certifi==2020.4.5
+certifi==2022.12.7
 Gensim==3.8.3
 nltk==3.1
